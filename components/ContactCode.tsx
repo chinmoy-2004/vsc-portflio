@@ -2,11 +2,6 @@ import styles from '@/styles/ContactCode.module.css';
 
 const contactItems = [
   {
-    social: 'website',
-    link: 'nitinranganath.com',
-    href: 'https://nitinranganath.com',
-  },
-  {
     social: 'email',
     link: 'www.chinmoy.dev@gmail.com',
     href: 'mailto:www.chinmoy.dev@gmail.com',
